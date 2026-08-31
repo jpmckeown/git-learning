@@ -1,2 +1,2 @@
 file 1 again
-a new line
+here is a new line
